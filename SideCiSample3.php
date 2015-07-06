@@ -1,5 +1,5 @@
 <?php
-class SideCiSample2 {
+class SideCiSample3 {
 public function hoge() { echo "hoge"; }
 public function fuga() {
 echo "hoge";
