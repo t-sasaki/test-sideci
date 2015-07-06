@@ -2,6 +2,4 @@ linter:
   code_sniffer:
     options:
       standard: PSR2
-  phpcs:
-    options:
-      standard: PSR2
+
