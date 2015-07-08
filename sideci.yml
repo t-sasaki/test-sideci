@@ -1,4 +1,4 @@
 linter:
   code_sniffer:
     options:
-      standard: phpcs.xml
+      standard: notfound.xml
